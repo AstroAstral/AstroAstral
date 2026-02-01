@@ -3,8 +3,8 @@
 Estudante de JavaScript com foco em lógica de programação, buscando oportunidade de estágio em desenvolvimento.
 
 ## Sobre mim
-Atualmente estudo JavaScript com ênfase em fundamentos da programação, aplicando o aprendizado em projetos práticos e organizados.  
-Meu foco é consolidar lógica, clareza de código e evolução progressiva.
+Estudo JavaScript com ênfase em fundamentos da programação, aplicando o aprendizado em projetos práticos e organizados.  
+Tenho foco em lógica, clareza de código e evolução progressiva, iniciando estudos em Python de forma complementar.
 
 ## Conhecimentos
 - JavaScript (lógica de programação)
