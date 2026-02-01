@@ -25,7 +25,7 @@ Meu foco é consolidar lógica, clareza de código e evolução progressiva.
   Projeto de customização de interface utilizando CSS, com foco em UI/UX.
 
 ## Objetivo
-Atuar como estagiário em desenvolvimento, aplicando e evoluindo meus conhecimentos em JavaScript e lógica de programação em ambiente profissional.
+Atuar como estagiário em desenvolvimento, com foco em aprendizado contínuo e aplicação prática de lógica de programação em ambiente profissional.
 
 ## Contato
 GitHub: https://github.com/AstroAstral
