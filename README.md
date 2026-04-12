@@ -21,6 +21,8 @@ Tenho foco em lógica, clareza de código e evolução progressiva.
 
 - **Classificação de Alunos** Projeto em JavaScript para cálculo de média e classificação de alunos por status. (Traduzido para Lua)
 
+- **Sistema de Atendimento** Projeto em Lua com menus dinâmicos, persistência de fluxo e validação de entrada de dados.
+
 - **YouTube Music Custom** Projeto de customização de interface utilizando CSS, com foco em UI/UX. (Em desenvolvimento)
 
 ## Objetivo
