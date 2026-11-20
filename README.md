@@ -1,32 +1,34 @@
 # Matheus Duarte
 
-Estudante de JavaScript e Lua com foco em lógica de programação, buscando oportunidade de estágio em desenvolvimento.
+Estudante de **Bacharelado em Engenharia de Software** e **Tecnólogo em Gestão da TI** (Estácio), com experiência prática em suporte técnico e foco em desenvolvimento de software.
 
-## Sobre mim
-Estudo JavaScript e Lua com ênfase em fundamentos da programação, aplicando o aprendizado em projetos práticos e organizados.
-Tenho foco em lógica, clareza de código e evolução progressiva.
+---
 
-## Conhecimentos
-- JavaScript e Lua (lógica de programação)
-- Funções
-- Arrays e objetos
-- Controle de fluxo (if/else, loops)
-- Persistência de dados e Robustez em Lua (while, nil)
-- Estruturação de pequenos projetos
-- Git e GitHub (básico)
+### Sobre mim
 
-## Projetos em destaque
+Sou de Florianópolis (SC) e uno a vivência prática em suporte técnico, infraestrutura e sistemas operacionais (Windows e Linux) ao desenvolvimento de aplicações organizadas e funcionais. Tenho foco em lógica de programação, clareza de código e bancos de dados relacionais, buscando oportunidades na área de tecnologia (Desenvolvimento, Suporte de Sistemas, QA ou Estágio) para gerar resultados consistentes e seguir evoluindo tecnicamente.
 
-- **Avaliação de Funcionários** Projeto em JavaScript com regras de negócio, classificação e retorno estruturado de dados. (Traduzido para Lua)
+---
 
-- **Classificação de Alunos** Projeto em JavaScript para cálculo de média e classificação de alunos por status. (Traduzido para Lua)
+### Conhecimentos e Tecnologias
 
-- **Sistema de Atendimento** Projeto em Lua com menus dinâmicos, persistência de fluxo e validação de entrada de dados.
+* **Linguagens:** JavaScript, Lua, Python, SQL
+* **Web:** HTML5, CSS3
+* **Ferramentas e Versionamento:** Git, GitHub
+* **Sistemas e Infraestrutura:** Linux, Microsoft Windows, Suporte Técnico e Redes
 
-- **YouTube Music Custom** Projeto de customização de interface utilizando CSS, com foco em UI/UX. (Em desenvolvimento)
+---
 
-## Objetivo
-Atuar como estagiário em desenvolvimento, com foco em aprendizado contínuo e aplicação prática de lógica de programação em ambiente profissional.
+### Projetos em destaque
 
-## Contato
-GitHub: https://github.com/AstroAstral
+* **[Avaliação de Funcionários](https://github.com/AstroAstral)** — Aplicação em JavaScript (com versão em Lua) aplicando regras de negócio, critérios de classificação e retorno estruturado de dados.
+* **[Classificação de Alunos](https://github.com/AstroAstral)** — Sistema em JavaScript (com versão em Lua) para cálculo de médias e classificação automatizada por status.
+* **[Sistema de Atendimento](https://github.com/AstroAstral)** — Projeto em Lua com menus dinâmicos, controle de fluxo e validação de entrada de dados.
+* **[YouTube Music Custom](https://github.com/AstroAstral)** — Customização de interface utilizando CSS, com foco em estética e experiência de uso (UI/UX).
+
+---
+
+### Contato
+
+* **LinkedIn:** [linkedin.com/in/astroastral](https://www.linkedin.com/in/astroastral)
+* **E-mail:** matheusaoqwer@gmail.com
