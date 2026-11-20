@@ -21,10 +21,10 @@ Sou de Florianópolis (SC) e uno a vivência prática em suporte técnico, infra
 
 ### Projetos em destaque
 
-* **[Avaliação de Funcionários](https://github.com/AstroAstral)** — Aplicação em JavaScript (com versão em Lua) aplicando regras de negócio, critérios de classificação e retorno estruturado de dados.
-* **[Classificação de Alunos](https://github.com/AstroAstral)** — Sistema em JavaScript (com versão em Lua) para cálculo de médias e classificação automatizada por status.
-* **[Sistema de Atendimento](https://github.com/AstroAstral)** — Projeto em Lua com menus dinâmicos, controle de fluxo e validação de entrada de dados.
-* **[YouTube Music Custom](https://github.com/AstroAstral)** — Customização de interface utilizando CSS, com foco em estética e experiência de uso (UI/UX).
+* **[Avaliação de Funcionários]([https://github.com/AstroAstral](https://github.com/AstroAstral/avaliacao-funcionarios-js))** — Aplicação em JavaScript (com versão em Lua) aplicando regras de negócio, critérios de classificação e retorno estruturado de dados.
+* **[Classificação de Alunos](h[ttps://github.com/AstroAstra](https://github.com/AstroAstral/classificacao-alunos-js)** — Sistema em JavaScript (com versão em Lua) para cálculo de médias e classificação automatizada por status.
+* **[Sistema de Atendimento]([https://github.com/AstroAstra](https://github.com/AstroAstral/Sistema-de-Atendimento)** — Projeto em Lua com menus dinâmicos, controle de fluxo e validação de entrada de dados.
+* **[YouTube Music Custom]([https://github.com/AstroAstral](https://github.com/AstroAstral/youtube-music-custom-by-astroastral)** — Customização de interface utilizando CSS, com foco em estética e experiência de uso (UI/UX).
 
 ---
 
