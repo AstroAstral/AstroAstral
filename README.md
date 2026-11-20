@@ -31,4 +31,4 @@ Sou de Florianópolis (SC) e uno a vivência prática em suporte técnico, infra
 ### Contato
 
 * **LinkedIn:** [linkedin.com/in/astroastral](https://www.linkedin.com/in/astroastral)
-* **E-mail:** matheusaoqwer@gmail.com
+* **E-mail:** matheusduarteeller@gmail.com
